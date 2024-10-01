@@ -1,12 +1,20 @@
-# flutter_application_appbelanja
+# flutter_application_
 
-A new Flutter project.
+Flutter project Desain Maps Prototype.
+## Muh Andra Ariesfi
+## NIM 362358302103
 
-## Getting Started
+<p> Laporan Praktikum Pemrograman Prangkat Bergerak </p>
 
-This project is a starting point for a Flutter application.
+#### Program
 
-A few resources to get you started if this is your first Flutter project:
+![code](assets/Screenshot%202024-10-01%20205705.png)
+![code](assets/Screenshot%202024-10-01%20205717.png)
+
+
+
+
+### Documentation
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
